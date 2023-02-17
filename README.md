@@ -1,2 +1,7 @@
 # shiny-date-time
-Shiny template to get date and time widgets
+
+Shiny template using date and time widgets
+
+```r
+shiny::runGitHub(repo = "shiny-date-time", username = "pchelle", ref = "main")
+```
